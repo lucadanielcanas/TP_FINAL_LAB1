@@ -5,6 +5,6 @@
 int main()
 {
     printf("PROYECTO PARA TODOS.\n");
-    printf("HOLA MUNDO XD");
+    printf("HOLA MUNDO XDXD");
     return 0;
 }
