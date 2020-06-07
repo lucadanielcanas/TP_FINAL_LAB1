@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1591490990 source:c:\users\lutes\desktop\programacion\programacion\tp final\tp_final_lab1\tp_final_lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funtions.h"
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1591494355 c:\users\lutes\desktop\programacion\programacion\tp final\tp_final_lab1\tp_final_lab1\funtions.h
+
