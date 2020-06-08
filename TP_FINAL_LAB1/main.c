@@ -8,7 +8,6 @@
 
 int main()
 {
-    char DatosEmpleado[]= {"dataEmpleado.bin"};  /// nombre ubicacion de los datos de los empleados
     char DatosCliente[]={"dataCliente.bin"};    /// nombre ubicacion de los datos de los clientes
     char DatosPedido[]={"dataPedido.bin"};      /// nombre ubicacion de los datos de los pedidos
     char DatosProducto[]={"dataProducto.bin"};  /// nombre ubicacion de los datos de los productos
@@ -16,7 +15,7 @@ int main()
 
 /// FUNCIONES...
 
-    ///EMPLEADOS
+    /*///EMPLEADOS
     carga_datos_empleado(DatosEmpleado);
     Mostrar_Datos_Empleados (DatosEmpleado);
 
@@ -31,7 +30,9 @@ int main()
     ///PRODUCTOS
     carga_datos_productos(DatosProducto);
     Mostrar_Datos_Productos(DatosProducto);
+*/
 
+    loginAdmin();
 
     return 0;
 }

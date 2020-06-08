@@ -10,3 +10,26 @@
 
 1591494355 c:\users\lutes\desktop\programacion\programacion\tp final\tp_final_lab1\tp_final_lab1\funtions.h
 
+1591573166 source:d:\utn\tecnicatura universitaria en programación\primer año\cuatrimestre 1\programación 1\tp_final\tp_final_lab1\tp_final_lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funtions.h"
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1591573133 d:\utn\tecnicatura universitaria en programación\primer año\cuatrimestre 1\programación 1\tp_final\tp_final_lab1\tp_final_lab1\funtions.h
+	<stdio.h>
+	<stdlib.h>
+
+1591574239 source:d:\utn\tecnicatura universitaria en programación\primer año\cuatrimestre 1\programación 1\tp_final\tp_final_lab1\tp_final_lab1\funtions.c
+	<stdio.h>
+	<stdlib.h>
+	"funtions.h"
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
